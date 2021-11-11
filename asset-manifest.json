@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/blablacart/static/css/main.8ce08f08.chunk.css",
+    "main.js": "/blablacart/static/js/main.d9f69b7e.chunk.js",
+    "main.js.map": "/blablacart/static/js/main.d9f69b7e.chunk.js.map",
+    "runtime-main.js": "/blablacart/static/js/runtime-main.7cea773e.js",
+    "runtime-main.js.map": "/blablacart/static/js/runtime-main.7cea773e.js.map",
+    "static/js/2.f3baca87.chunk.js": "/blablacart/static/js/2.f3baca87.chunk.js",
+    "static/js/2.f3baca87.chunk.js.map": "/blablacart/static/js/2.f3baca87.chunk.js.map",
+    "static/js/3.43ef12f3.chunk.js": "/blablacart/static/js/3.43ef12f3.chunk.js",
+    "static/js/3.43ef12f3.chunk.js.map": "/blablacart/static/js/3.43ef12f3.chunk.js.map",
+    "index.html": "/blablacart/index.html",
+    "static/css/main.8ce08f08.chunk.css.map": "/blablacart/static/css/main.8ce08f08.chunk.css.map",
+    "static/js/2.f3baca87.chunk.js.LICENSE.txt": "/blablacart/static/js/2.f3baca87.chunk.js.LICENSE.txt",
+    "static/media/cartoon-dev.ca5a8b33.jpg": "/blablacart/static/media/cartoon-dev.ca5a8b33.jpg",
+    "static/media/lcd.c8bab20f.jpg": "/blablacart/static/media/lcd.c8bab20f.jpg",
+    "static/media/logo.6ce24c58.svg": "/blablacart/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cea773e.js",
+    "static/js/2.f3baca87.chunk.js",
+    "static/css/main.8ce08f08.chunk.css",
+    "static/js/main.d9f69b7e.chunk.js"
+  ]
+}
