@@ -1,0 +1,25 @@
+.content {
+    grid-column: col-start 3/ span 10;
+    grid-row: 3;
+    padding: 1rem;
+    overflow-x: hidden;
+}
+
+.product-container {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows: 450px 450px;
+    column-gap: 2.75%;
+    row-gap: 10px;
+}
+
+.card {
+    box-shadow: 2px 2px 8px grey;
+    text-align: center;
+    background: white;
+}
+
+.product-image {
+    width: 80%;
+    height: 70%;
+}

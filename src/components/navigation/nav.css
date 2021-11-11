@@ -1,0 +1,26 @@
+.navBar {
+    grid-column: col-start / span 2;
+    grid-row: 3;
+    background: #131921;
+    box-shadow: 2px 2px 8px grey;
+}
+
+.categoryList {
+    list-style: none;
+    padding: 0;
+}
+
+.categoryList>li {
+    padding: 5px 10px;
+    text-align: center;
+}
+
+li:hover {
+    transition: 0.5s;
+    box-shadow: inset 300px 0 0 0 #ff6f01;
+    color: black;
+}
+
+.category {
+    color: white;
+}

@@ -1,5 +1,7 @@
 .App {
-  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(12, [col-start] 1fr);
+  background: #eaeded;
 }
 
 .App-logo {
@@ -11,6 +13,44 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.btn {
+  font-size: 1.1rem;
+  padding: 0.5rem;
+  font-weight: bold;
+  border: none;
+  box-shadow: 2px 2px 4px gray;
+  position: relative;
+}
+
+.btn .circle {
+  position: absolute;
+  top: -21px;
+  right: -21px;
+  width: 30px;
+  height: 30px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  background: red;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.darkBtn {
+  color: white;
+  background: #131921;
+}
+
+.text-primary {
+  color: rgb(255, 132, 0);
+}
+
+.bg-primary {
+  background-color: rgb(255, 132, 0);
 }
 
 .App-header {
@@ -32,6 +72,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

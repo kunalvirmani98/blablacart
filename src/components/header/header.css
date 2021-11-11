@@ -1,0 +1,45 @@
+.header {
+    padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    grid-column: col-start / span 12;
+    background: #131921;
+    color: white;
+}
+
+.react-tiny-popover-container {
+    top: 30px !important;
+    background: #eaeded;
+    box-shadow: 2px 2px 8px grey;
+}
+
+.userInfo {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+}
+
+.userImage {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-right: 0.5rem;
+    margin-left: 2rem;
+}
+
+.d-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.cartProduct {
+    box-shadow: 1px 1px 4px grey;
+    justify-content: flex-start;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    margin-bottom: 1rem;
+    background: white;
+}
